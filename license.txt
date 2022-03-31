@@ -1,0 +1,11 @@
+Model Information:
+* title:	Kuka robot laser welding
+* source:	https://sketchfab.com/3d-models/kuka-robot-laser-welding-fe0fd925943a4a6c852843193d48e42a
+* author:	qlabrosse (https://sketchfab.com/qlabrosse)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Kuka robot laser welding" (https://sketchfab.com/3d-models/kuka-robot-laser-welding-fe0fd925943a4a6c852843193d48e42a) by qlabrosse (https://sketchfab.com/qlabrosse) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
